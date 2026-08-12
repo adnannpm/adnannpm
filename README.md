@@ -5,18 +5,18 @@ I'm interested in Open Source, Linux, and Backend Development.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 10 August 2026
+From: 03 June 2026 - To: 11 August 2026
 
-Total Time: 39 hrs 56 mins
+Total Time: 42 hrs 9 mins
 
-Go               15 hrs 20 mins        █████████▓░░░░░░░░░░░░░░░   38.00 %
-PHP              8 hrs 32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-Markdown         5 hrs 54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Svelte           5 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Python           2 hrs 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Blade Template   58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-JavaScript       36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Jinja2           14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Go               15 hrs 20 mins        █████████░░░░░░░░░░░░░░░░   35.80 %
+PHP              9 hrs 10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+Markdown         5 hrs 57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Svelte           5 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Python           3 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Blade Template   1 hr 11 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JavaScript       36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Makefile         20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
