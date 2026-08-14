@@ -1,6 +1,6 @@
 # Hi 👋, I'm Adnan
 
-I'm interested in Open Source, Linux, and Backend Development.
+I'm interested in Game Developer and FrontEnd.
 
 <!--START_SECTION:waka-->
 
