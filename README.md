@@ -5,19 +5,18 @@ I'm interested in Game Developer and FrontEnd Developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 26 August 2026
+From: 03 June 2026 - To: 27 August 2026
 
-Total Time: 99 hrs 35 mins
+Total Time: 101 hrs 9 mins
 
-Go                                 41 hrs 27 mins        ██████████░░░░░░░░░░░░░░░   40.66 %
-PHP                                17 hrs 12 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-Python                             12 hrs 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Markdown                           6 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Svelte                             5 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-C#                                 4 hrs 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-JavaScript                         2 hrs 46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Blade Template                     2 hrs 34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Docker                             1 hr 1 min            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Go                                 41 hrs 28 mins        ██████████░░░░░░░░░░░░░░░   39.96 %
+PHP                                18 hrs 30 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+Python                             12 hrs 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Markdown                           6 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Svelte                             5 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+C#                                 4 hrs 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JavaScript                         2 hrs 46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Blade Template                     2 hrs 34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
