@@ -5,7 +5,7 @@ I'm interested in Game Developer and FrontEnd Developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 28 August 2026
+From: 03 June 2026 - To: 29 August 2026
 
 Total Time: 103 hrs 23 mins
 
