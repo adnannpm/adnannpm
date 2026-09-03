@@ -1,6 +1,6 @@
 # Hi 👋, I'm Adnan
 
-I'm interested in Game Developer and FrontEnd Developer.
+I'm interested in Game Developer.
 
 <!--START_SECTION:waka-->
 
