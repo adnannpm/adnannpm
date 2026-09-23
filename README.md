@@ -16,7 +16,7 @@ Python                             13 hrs 52 mins        ██░░░░░�
 Markdown                           7 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 C#                                 6 hrs 24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 Svelte                             5 hrs 27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Bash                               4 hrs 51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+JavaScript                         4 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
