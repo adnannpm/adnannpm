@@ -5,12 +5,12 @@ I'm interested in Game Developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 25 September 2026
+From: 03 June 2026 - To: 26 September 2026
 
-Total Time: 178 hrs 30 mins
+Total Time: 178 hrs 32 mins
 
 Go                                 45 hrs 50 mins        ██████░░░░░░░░░░░░░░░░░░░   23.57 %
-PHP                                31 hrs 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+PHP                                31 hrs 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
 TypeScript                         26 hrs 2 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
 C#                                 17 hrs 14 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
 Python                             14 hrs 1 min          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
