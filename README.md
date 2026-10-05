@@ -5,7 +5,7 @@ I'm interested in Game Developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 02 October 2026
+From: 03 June 2026 - To: 03 October 2026
 
 Total Time: 192 hrs 42 mins
 
