@@ -38,10 +38,6 @@ Browse my [repositories](https://github.com/adnannpm?tab=repositories) for code 
 
 ---
 
-### My first released game
-
-A little milestone in my game-development journey.
-
 <p align="center">
   <img src="assets/first-game-run.gif" alt="Animated tribute to my first released game: a red-capped runner races right through a misty forest, kicking up dust as the scenery scrolls past." width="100%">
 </p>
