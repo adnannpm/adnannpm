@@ -22,8 +22,7 @@ def refresh(content: str, now: datetime) -> str:
     local = now.astimezone(ZoneInfo("Asia/Jakarta"))
     date = f"{local.day:02d} {MONTHS[local.month - 1]} {local.year}"
     block = (
-        '\n<p align="center"><sub>Profile refreshed automatically · '
-        f'{date} · WIB (UTC+7)</sub></p>\n'
+        f'\n<p align="center"><sub>{date} · WIB (UTC+7)</sub></p>\n'
     )
     return content[:start] + block + content[end:]
 

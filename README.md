@@ -30,7 +30,21 @@ Browse my [repositories](https://github.com/adnannpm?tab=repositories) for code 
 
 ---
 
-<p align="center"><sub>Original ANStudio artwork made in Aseprite · <a href="assets/pixel-studio.aseprite">Editable source</a> · <a href="assets/pixel-studio.png">Still image</a></sub></p>
+### Most-starred repositories
+
+My top 5 public, non-fork repositories by stars. Updated daily.
+
+<!--START_SECTION:top-repos-->
+
+| Repository | Description | Language | Stars |
+| :--- | :--- | :--- | ---: |
+| [database&#95;2](https://github.com/adnannpm/database_2) | — | Java | ⭐ 5 |
+| [speck-show](https://github.com/adnannpm/speck-show) | Spek is a fast, lightweight Go CLI tool for grabbing quick system specs, hardware stats, and real-time sensor temperatures. | Go | ⭐ 3 |
+| [tugas&#95;app](https://github.com/adnannpm/tugas_app) | — | Java | ⭐ 3 |
+| [spek-checker-app](https://github.com/adnannpm/spek-checker-app) | Spek App is a lightweight desktop application developed as a tool and GUI expansion derived from the spek-checker project. | Svelte | ⭐ 2 |
+| [github-io](https://github.com/adnannpm/github-io) | — | Go | ⭐ 1 |
+
+<!--END_SECTION:top-repos-->
 
 <!--START_SECTION:profile-date-->
 <p align="center"><sub>21 October 2026 · WIB (UTC+7)</sub></p>

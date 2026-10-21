@@ -12,7 +12,8 @@ class ProfileDateTests(unittest.TestCase):
         self.assertIn("22 October 2026", updated)
         self.assertTrue(updated.startswith(f"Intro\n{START}"))
         self.assertTrue(updated.endswith(f"{END}\nFooter\n"))
-        self.assertIn("automatically", updated)
+        self.assertIn('<sub>22 October 2026 · WIB (UTC+7)</sub>', updated)
+        self.assertNotIn('automatically', updated)
         self.assertEqual(refresh(updated, now), updated)
 
     def test_invalid_markers_fail(self):
