@@ -41,4 +41,3 @@ Browse my [repositories](https://github.com/adnannpm?tab=repositories) for code 
 <p align="center">
   <img src="assets/first-game-run.gif" alt="Animated tribute to my first released game: a red-capped runner races right through a misty forest, kicking up dust as the scenery scrolls past." width="100%">
 </p>
-<p align="center"><sub>A looping pixel-art tribute based on my game screenshot, animated in Aseprite — not a gameplay recording. · <a href="assets/first-game-run.aseprite">Editable source</a></sub></p>
