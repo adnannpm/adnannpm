@@ -30,7 +30,7 @@ Browse my [repositories](https://github.com/adnannpm?tab=repositories) for code 
 
 ---
 
-<p align="center"><sub>Original AN Studio artwork made in Aseprite · <a href="assets/pixel-studio.aseprite">Editable source</a> · <a href="assets/pixel-studio.png">Still image</a></sub></p>
+<p align="center"><sub>Original ANStudio artwork made in Aseprite · <a href="assets/pixel-studio.aseprite">Editable source</a> · <a href="assets/pixel-studio.png">Still image</a></sub></p>
 
 <!--START_SECTION:profile-date-->
 <p align="center"><sub>21 October 2026 · WIB (UTC+7)</sub></p>
