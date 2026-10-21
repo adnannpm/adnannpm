@@ -30,14 +30,8 @@ Browse my [repositories](https://github.com/adnannpm?tab=repositories) for code 
 
 ---
 
-<p align="center"><sub>Original pixel studio artwork made in Aseprite · <a href="assets/pixel-studio.aseprite">Editable source</a> · <a href="assets/pixel-studio.png">Still image</a></sub></p>
+<p align="center"><sub>Original AN Studio artwork made in Aseprite · <a href="assets/pixel-studio.aseprite">Editable source</a> · <a href="assets/pixel-studio.png">Still image</a></sub></p>
 
 <!--START_SECTION:profile-date-->
-<p align="center"><sub>Profile refreshed automatically · 21 October 2026 · WIB (UTC+7)</sub></p>
+<p align="center"><sub>21 October 2026 · WIB (UTC+7)</sub></p>
 <!--END_SECTION:profile-date-->
-
----
-
-<p align="center">
-  <img src="assets/first-game-run.gif" alt="Animated tribute to my first released game: a red-capped runner races right through a misty forest, kicking up dust as the scenery scrolls past." width="100%">
-</p>
