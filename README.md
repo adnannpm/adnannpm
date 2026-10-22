@@ -42,10 +42,10 @@ My top 5 public, non-fork repositories by stars. Updated daily.
 | [speck-show](https://github.com/adnannpm/speck-show) | Spek is a fast, lightweight Go CLI tool for grabbing quick system specs, hardware stats, and real-time sensor temperatures. | Go | ⭐ 3 |
 | [tugas&#95;app](https://github.com/adnannpm/tugas_app) | — | Java | ⭐ 3 |
 | [spek-checker-app](https://github.com/adnannpm/spek-checker-app) | Spek App is a lightweight desktop application developed as a tool and GUI expansion derived from the spek-checker project. | Svelte | ⭐ 2 |
-| [github-io](https://github.com/adnannpm/github-io) | — | Go | ⭐ 1 |
+| [Adnan&#95;php](https://github.com/adnannpm/Adnan_php) | — | PHP | ⭐ 0 |
 
 <!--END_SECTION:top-repos-->
 
 <!--START_SECTION:profile-date-->
-<p align="center"><sub>21 October 2026 · WIB (UTC+7)</sub></p>
+<p align="center"><sub>22 October 2026 · WIB (UTC+7)</sub></p>
 <!--END_SECTION:profile-date-->
