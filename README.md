@@ -30,21 +30,31 @@ Browse my [repositories](https://github.com/adnannpm?tab=repositories) for code 
 
 ---
 
-### Most-starred repositories
+### Top languages
 
-My top 5 public, non-fork repositories by stars. Updated daily.
+Language percentages by code size (bytes) across all my public, non-fork repositories. Scheduled to update daily at 06:00 WIB. Repositories without detected languages are excluded; percentages are rounded to two decimal places.
 
-<!--START_SECTION:top-repos-->
+<!--START_SECTION:languages-->
 
-| Repository | Description | Language | Stars |
-| :--- | :--- | :--- | ---: |
-| [database&#95;2](https://github.com/adnannpm/database_2) | — | Java | ⭐ 5 |
-| [speck-show](https://github.com/adnannpm/speck-show) | Spek is a fast, lightweight Go CLI tool for grabbing quick system specs, hardware stats, and real-time sensor temperatures. | Go | ⭐ 3 |
-| [tugas&#95;app](https://github.com/adnannpm/tugas_app) | — | Java | ⭐ 3 |
-| [spek-checker-app](https://github.com/adnannpm/spek-checker-app) | Spek App is a lightweight desktop application developed as a tool and GUI expansion derived from the spek-checker project. | Svelte | ⭐ 2 |
-| [Adnan&#95;php](https://github.com/adnannpm/Adnan_php) | — | PHP | ⭐ 0 |
+| Language | Percentage |
+| :--- | ---: |
+| JavaScript | 46.10% |
+| PHP | 18.59% |
+| Blade | 8.20% |
+| Python | 6.26% |
+| CSS | 4.88% |
+| Java | 4.77% |
+| HTML | 4.29% |
+| Go | 1.92% |
+| TypeScript | 1.47% |
+| Svelte | 1.44% |
+| NSIS | 0.78% |
+| Shell | 0.53% |
+| Batchfile | 0.44% |
+| Lua | 0.32% |
+| Hack | 0.00% |
 
-<!--END_SECTION:top-repos-->
+<!--END_SECTION:languages-->
 
 <!--START_SECTION:profile-date-->
 <p align="center"><sub>23 October 2026 · WIB (UTC+7)</sub></p>
