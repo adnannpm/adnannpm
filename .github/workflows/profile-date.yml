@@ -3,8 +3,8 @@ name: Refresh profile
 on:
   workflow_dispatch:
   schedule:
-    # 00:17 UTC = 07:17 WIB; avoid the busiest top-of-hour window.
-    - cron: "17 0 * * *"
+    # 23:00 UTC on the previous day = 06:00 WIB.
+    - cron: "0 23 * * *"
 
 permissions:
   contents: write
