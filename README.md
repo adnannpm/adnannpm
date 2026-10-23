@@ -30,31 +30,11 @@ Browse my [repositories](https://github.com/adnannpm?tab=repositories) for code 
 
 ---
 
-### Top languages
+### Tech Stack & Tools
 
-Language percentages by code size (bytes) across all my public, non-fork repositories. Scheduled to update daily at 06:00 WIB. Repositories without detected languages are excluded; percentages are rounded to two decimal places.
-
-<!--START_SECTION:languages-->
-
-| Language | Percentage |
-| :--- | ---: |
-| JavaScript | 46.10% |
-| PHP | 18.59% |
-| Blade | 8.20% |
-| Python | 6.26% |
-| CSS | 4.88% |
-| Java | 4.77% |
-| HTML | 4.29% |
-| Go | 1.92% |
-| TypeScript | 1.47% |
-| Svelte | 1.44% |
-| NSIS | 0.78% |
-| Shell | 0.53% |
-| Batchfile | 0.44% |
-| Lua | 0.32% |
-| Hack | 0.00% |
-
-<!--END_SECTION:languages-->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,php,laravel,tailwind,svelte,nextjs,docker,cs,lua,react,git&perline=7" alt="TypeScript, JavaScript, Python, Go, PHP, Laravel, Tailwind CSS, Svelte, Next.js, Docker, C#, Lua, React, Git">
+</p>
 
 <!--START_SECTION:profile-date-->
 <p align="center"><sub>23 October 2026 · WIB (UTC+7)</sub></p>
