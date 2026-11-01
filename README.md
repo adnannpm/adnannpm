@@ -10,6 +10,12 @@
   <a href="https://github.com/adnannpm?tab=stars">Things that inspire me</a>
 </p>
 
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/adnannpm">
+    <img src="https://hub.xerj.org/contributors/adnannpm/badge.svg" alt="XERJ Corpus Hub contributor">
+  </a>
+</p>
+
 ---
 
 ### Behind the screen
